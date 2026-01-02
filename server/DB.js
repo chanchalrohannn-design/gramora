@@ -6,7 +6,7 @@ mongoose.connect("mongodb+srv://sweta:TiBbvrJKbpIJBjCc@cluster0.rfoyt1a.mongodb.
     useNewUrlParser:true,
     useUnifiedTopology:true
 
-}
+}git 
      console.log(" connected to mongodb");
 
 
